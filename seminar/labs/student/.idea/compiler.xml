@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for student" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="openjpa.metamodel" value="true" />
+        <module name="BATCH_LABS" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="as-selector" target="1.8" />
+      <module name="BATCH_LABS" target="1.8" />
+      <module name="jdbc-selector" target="1.8" />
+      <module name="jpa-selector" target="1.8" />
+      <module name="student" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BATCH_LABS" options="-Aopenjpa.metamodel=true" />
+    </option>
+  </component>
+</project>

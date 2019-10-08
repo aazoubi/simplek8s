@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BATCH_LABS/BATCH_LABS.iml" filepath="$PROJECT_DIR$/BATCH_LABS/BATCH_LABS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/as-selector/as-selector.iml" filepath="$PROJECT_DIR$/as-selector/as-selector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc-selector/jdbc-selector.iml" filepath="$PROJECT_DIR$/jdbc-selector/jdbc-selector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa-selector/jpa-selector.iml" filepath="$PROJECT_DIR$/jpa-selector/jpa-selector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student.iml" filepath="$PROJECT_DIR$/student.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BATCH_LABS:war">
+    <output-path>$PROJECT_DIR$/BATCH_LABS/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>BATCH_LABS</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="BATCH_LABS.war">
+      <element id="artifact" artifact-name="BATCH_LABS:war exploded" />
+    </root>
+  </artifact>
+</component>

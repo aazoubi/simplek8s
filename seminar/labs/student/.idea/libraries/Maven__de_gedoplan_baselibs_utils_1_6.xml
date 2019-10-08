@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.gedoplan:baselibs-utils:1.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/gedoplan/baselibs-utils/1.6/baselibs-utils-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/gedoplan/baselibs-utils/1.6/baselibs-utils-1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/gedoplan/baselibs-utils/1.6/baselibs-utils-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

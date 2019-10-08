@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JEE_TEST_LABS:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80787e3f-ddd4-4fbb-b619-9262bb0f1880" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JEE_TEST_LABS_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JEE_TEST_LABS_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SELENIUM_LABS_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SELENIUM_LABS_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_193.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_gedoplan_baselibs_naming_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_gedoplan_baselibs_persistence_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_gedoplan_baselibs_utils_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_gedoplan_baselibs_wildfly_14_0_1_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_gedoplan_baselibs_wildfly_16_0_0_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_undertow_undertow_core_1_4_15_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_enterprise_cdi_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_enterprise_cdi_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_2_6_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_artemis_commons_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_artemis_core_client_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_artemis_hqclient_protocol_2_6_3_jbossorg_00014.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_artemis_hqclient_protocol_2_6_3_jbossorg_001.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_artemis_jms_client_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_artemis_selector_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_deltaspike_cdictrl_deltaspike_cdictrl_api_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_deltaspike_cdictrl_deltaspike_cdictrl_weld_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_deltaspike_core_deltaspike_core_api_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_deltaspike_core_deltaspike_core_impl_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_deltaspike_modules_deltaspike_test_control_module_api_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_deltaspike_modules_deltaspike_test_control_module_impl_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derbyclient_10_10_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jcl_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jul_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_builder_support_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_file_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_lightweight_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_shared_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_2_FINAL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_arquillian_spacelift_arquillian_spacelift_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_arquillian_spacelift_arquillian_spacelift_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_awaitility_awaitility_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_api_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_javac_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dbunit_dbunit_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easymock_easymock_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_api_1_0_0_v20140518.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_connector_basic_1_0_0_v20140518.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_impl_1_0_0_v20140518.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_spi_1_0_0_v20140518.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_transport_wagon_1_0_0_v20140518.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_util_1_0_0_v20140518.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_5_v20170502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_jakarta_persistence_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_antlr_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_asm_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_core_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_jpa_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_jpa_jpql_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_inject_0_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_plexus_0_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_json_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_api_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_impl_base_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_spi_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_impl_base_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_spi_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_api_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_impl_base_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_spi_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_api_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_impl_base_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_spi_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_drone_api_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_drone_configuration_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_drone_impl_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_drone_spi_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_drone_webdriver_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_persistence_api_1_0_0_Alpha7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_persistence_core_1_0_0_Alpha7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_persistence_dbunit_1_0_0_Alpha7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_persistence_spi_1_0_0_Alpha7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_transaction_api_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_transaction_impl_base_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_transaction_jta_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_transaction_spi_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_graphene_graphene_webdriver_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_graphene_graphene_webdriver_impl_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_graphene_graphene_webdriver_spi_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_junit_arquillian_junit_container_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_junit_arquillian_junit_core_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_protocol_arquillian_protocol_jmx_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_protocol_arquillian_protocol_servlet_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_api_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_impl_base_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_spi_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_cdi_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_ejb_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_initialcontext_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_resource_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_classfilewriter_jboss_classfilewriter_1_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_invocation_jboss_invocation_1_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_invocation_jboss_invocation_1_5_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jboss_common_core_2_5_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jboss_dmr_1_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jboss_dmr_1_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jboss_ejb_client_4_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jboss_ejb_client_4_0_14_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jboss_vfs_3_2_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jboss_vfs_3_2_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logmanager_jboss_logmanager_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logmanager_jboss_logmanager_2_0_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_1_4_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_river_1_4_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_river_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_modules_jboss_modules_1_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_modules_jboss_modules_1_6_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_msc_jboss_msc_1_2_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_msc_jboss_msc_1_2_7_SP1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_remoting_jboss_remoting_5_0_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_remotingjmx_remoting_jmx_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_remotingjmx_remoting_jmx_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_resteasy_resteasy_client_3_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_resteasy_resteasy_jackson_provider_3_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_resteasy_resteasy_jaxrs_3_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_sasl_jboss_sasl_1_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_api_base_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_impl_base_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_spi_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_2_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_2_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_archive_2_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_2_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_archive_2_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_2_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_maven_2_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_maven_archive_2_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_api_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_impl_base_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_spi_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_2_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_el_jboss_el_api_3_0_spec_1_0_0_Alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_interceptor_jboss_interceptors_api_1_2_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_ws_rs_jboss_jaxrs_api_2_0_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_staxmapper_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_staxmapper_1_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_stdio_jboss_stdio_1_0_2_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_threads_jboss_threads_2_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_threads_jboss_threads_2_3_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_environment_weld_environment_common_2_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_probe_weld_probe_core_2_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_se_weld_se_core_2_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_api_2_3_SP2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_core_impl_2_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_spi_2_3_SP2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_xnio_xnio_api_3_6_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_xnio_xnio_nio_3_6_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jgroups_jgroups_4_0_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jgroups_jgroups_4_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_picketbox_picketbox_4_9_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_picketbox_picketbox_5_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_api_mockito_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_api_mockito_common_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_api_support_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_core_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_module_junit4_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_reflect_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectodd_vdx_vdx_core_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectodd_vdx_vdx_wildfly_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0_beta4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unitils_unitils_core_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_common_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_common_2_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_container_remote_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_container_remote_2_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_protocol_jmx_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_protocol_jmx_2_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_testenricher_msc_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_testenricher_msc_2_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_client_wildfly_client_config_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_common_wildfly_common_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_common_wildfly_common_1_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_controller_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_controller_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_controller_client_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_controller_client_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_core_management_client_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_core_security_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_core_security_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_core_security_api_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_core_security_api_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_deployment_repository_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_deployment_repository_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_domain_http_interface_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_domain_http_interface_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_domain_management_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_domain_management_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_io_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_io_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_jmx_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_jmx_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_network_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_network_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_platform_mbean_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_platform_mbean_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_process_controller_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_process_controller_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_protocol_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_protocol_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_remoting_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_remoting_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_self_contained_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_server_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_server_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_version_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_version_3_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_discovery_wildfly_discovery_client_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_openssl_wildfly_openssl_java_1_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_plugins_wildfly_plugin_core_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_elytron_web_undertow_server_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_1_8_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_security_manager_1_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_transaction_wildfly_transaction_client_1_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_transaction_wildfly_transaction_client_1_1_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_wildfly_client_properties_16_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_wildfly_http_client_wildfly_http_client_common_1_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_wildfly_http_client_wildfly_http_client_common_1_0_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_wildfly_http_client_wildfly_http_ejb_client_1_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_wildfly_http_client_wildfly_http_ejb_client_1_0_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_wildfly_http_client_wildfly_http_naming_client_1_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_wildfly_http_client_wildfly_http_naming_client_1_0_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_wildfly_http_client_wildfly_http_transaction_client_1_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_wildfly_http_client_wildfly_http_transaction_client_1_0_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_wildfly_naming_client_1_0_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CI_DEMO/CI_DEMO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CI_EXERCISE/CI_EXERCISE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JEE_TEST_LABS/JEE_TEST_LABS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNIT_LABS/JUNIT_LABS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNIT_LABS/src/main/java/de/gedoplan/seminar/junit/Euro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/CompleteTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/demo/advanced/CalculatorParameterizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/exercise/basic/BasicTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/exercise/basic/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/exercise/basic/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/exercise/basic/ExcutionOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOCKING_LABS/MOCKING_LABS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOCKING_LABS/src/test/java/de/gedoplan/seminar/mocking/exercise/IPersonRepositoryMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOCKING_LABS/src/test/java/de/gedoplan/seminar/mocking/personscoring/service/PersonScoringServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SELENIUM_LABS/SELENIUM_LABS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD_LABS/TDD_LABS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD_LABS/src/test/java/de.gedoplan.seminar.tdd.entity/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD_LABS/src/test/java/de/gedoplan/seminar/tdd/service/PersonServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/as-selector/as-selector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/as-test-selector/as-test-selector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/as-test-selector/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc-selector/jdbc-selector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-selector/jpa-selector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/artifacts/BATCH_LABS_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/artifacts/BATCH_LABS_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__com_eaio_uuid_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__com_fasterxml_classmate_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__com_h2database_h2_1_4_193.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__commons_codec_commons_codec_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__de_gedoplan_baselibs_batch_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__de_gedoplan_baselibs_naming_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__de_gedoplan_baselibs_persistence_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__de_gedoplan_baselibs_utils_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__javax_javaee_api_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__net_sf_supercsv_super_csv_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jcl_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jul_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_beanio_beanio_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_eclipse_persistence_javax_persistence_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_antlr_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_asm_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_core_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_jpa_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_jpa_jpql_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_hibernate_hibernate_core_5_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_hibernate_hibernate_jpamodelgen_5_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_ow2_asm_asm_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_primefaces_primefaces_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/BATCH_LABS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/batch-input/customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/java/de/gedoplan/seminar/batch/exercise/BeanValidationItemProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/java/de/gedoplan/seminar/batch/exercise/CustomerCsvItemReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/java/de/gedoplan/seminar/batch/exercise/CustomerCsvItemReaderWithCheckpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/java/de/gedoplan/seminar/batch/exercise/LogSkipProcessListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/java/de/gedoplan/seminar/batch/exercise/PassOverSkipProcessListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/java/de/gedoplan/seminar/batch/exercise/UpdateRatesBatchlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/resources/META-INF/batch-jobs/ex01_updateRates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/resources/META-INF/batch-jobs/ex02_updateCustomers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/resources/META-INF/batch-jobs/ex03_updateRatesAndCustomers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/resources/META-INF/batch-jobs/ex04_filenameParameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/resources/META-INF/batch-jobs/ex05_validateCustomers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/resources/META-INF/batch-jobs/ex06_restartableCustomers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/resources/META-INF/batch-jobs/ex07_lenientCustomers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/resources/META-INF/batch-jobs/ex08_logInvalidCustomers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/resources/META-INF/batch-jobs/ex09_beanIO.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/BATCH_LABS/src/main/resources/META-INF/batch-jobs/ex10_saveInvalidCustomers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/as-selector/as-selector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/jdbc-selector/jdbc-selector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/jpa-selector/jpa-selector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seminar/labs/student/student.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/jdbc-selector/target/" />
+    <ignored path="$PROJECT_DIR$/JEE_TEST_LABS/target/" />
+    <ignored path="$PROJECT_DIR$/CI_EXERCISE/target/" />
+    <ignored path="$PROJECT_DIR$/CI_DEMO/target/" />
+    <ignored path="$PROJECT_DIR$/MOCKING_LABS/target/" />
+    <ignored path="$PROJECT_DIR$/TDD_LABS/target/" />
+    <ignored path="$PROJECT_DIR$/as-test-selector/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/jpa-selector/target/" />
+    <ignored path="$PROJECT_DIR$/SELENIUM_LABS/target/" />
+    <ignored path="$PROJECT_DIR$/JUNIT_LABS/target/" />
+    <ignored path="$PROJECT_DIR$/as-selector/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="seminar" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="seminar" type="feb32156:DbDataSourceImpl" />
+        <item name="SEMINAR: database" type="2aa06773:H2ImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="seminar" type="feb32156:DbDataSourceImpl" />
+        <item name="SEMINAR: database" type="2aa06773:H2ImplModel$Database" />
+        <item name="PUBLIC: schema" type="7f85d983:H2ImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/BESTELLUNG">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true">
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/BESTELLPOSITION">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true">
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/ARTIKEL">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true">
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>seminar</find>
+      <find>bom</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/TDD_LABS/src/test</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/exercise/ExcutionOrderTest.java" />
+        <option value="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/exercise/basic/ExcutionOrderTest.java" />
+        <option value="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/exercise/basic/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/exercise/basic/DemoTest.java" />
+        <option value="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/exercise/basic/Euro.java" />
+        <option value="$PROJECT_DIR$/JUNIT_LABS/src/main/java/de/gedoplan/seminar/junit/Calculator.java" />
+        <option value="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/demo/advanced/BasicTestSuite.java" />
+        <option value="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/exercise/basic/CalculatorParameterizedTest.java" />
+        <option value="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/exercise/basic/BasicTestSuite.java" />
+        <option value="$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/CompleteTestSuite.java" />
+        <option value="$PROJECT_DIR$/TDD_LABS/src/main/java/de/gedoplan/seminar/tdd/entity/Person.java" />
+        <option value="$PROJECT_DIR$/TDD_LABS/pom.xml" />
+        <option value="$PROJECT_DIR$/TDD_LABS/src/main/test/PersonTest.java" />
+        <option value="$PROJECT_DIR$/TDD_LABS/src/main/test/PersonTest1.java" />
+        <option value="$PROJECT_DIR$/TDD_LABS/src/test/de.gedoplan.seminar.tdd.entity/PersonTest1.java" />
+        <option value="$PROJECT_DIR$/TDD_LABS/src/test/java/de.gedoplan.seminar.tdd.entity/PersonTest1.java" />
+        <option value="$PROJECT_DIR$/TDD_LABS/src/main/java/de/gedoplan/seminar/tdd/entity/PersonTest.java" />
+        <option value="$PROJECT_DIR$/TDD_LABS/src/test/java/de.gedoplan.seminar.tdd.entity/PersonTest.java" />
+        <option value="$PROJECT_DIR$/TDD_LABS/src/test/java/de/gedoplan/seminar/tdd/service/PersonServiceTest.java" />
+        <option value="$PROJECT_DIR$/TDD_LABS/src/main/java/de/gedoplan/seminar/tdd/service/PersonService.java" />
+        <option value="$PROJECT_DIR$/MOCKING_LABS/src/test/java/de/gedoplan/seminar/mocking/exercise/IPersonRepositoryMock.java" />
+        <option value="$PROJECT_DIR$/MOCKING_LABS/src/test/java/de/gedoplan/seminar/mocking/personscoring/service/IPersonRepositoryMock.java" />
+        <option value="$PROJECT_DIR$/MOCKING_LABS/src/main/java/de/gedoplan/seminar/mocking/personscoring/service/PersonScoringService.java" />
+        <option value="$PROJECT_DIR$/MOCKING_LABS/src/test/java/de/gedoplan/seminar/mocking/personscoring/service/repository/IPersonRepositoryMock.java" />
+        <option value="$PROJECT_DIR$/MOCKING_LABS/src/test/java/de/gedoplan/seminar/mocking/personscoring/repository/IPersonRepositoryMock.java" />
+        <option value="$PROJECT_DIR$/MOCKING_LABS/src/test/java/de/gedoplan/seminar/mocking/personscoring/service/PersonScoringServiceTest.java" />
+        <option value="$PROJECT_DIR$/JEE_TEST_LABS/src/main/java/de/gedoplan/seminar/jeetest/waehrung/service/WaehrungService.java" />
+        <option value="$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/test/waehrung/fixture/WaehrungTestDataService.java" />
+        <option value="$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/waehrung/service/WaehrungServiceUnitTest.java" />
+        <option value="$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/waehrung/service/WaehrungServiceEmbeddedTest.java" />
+        <option value="$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/waehrung/service/WaehrungServiceWhiteBoxTest.java" />
+        <option value="$PROJECT_DIR$/as-test-selector/pom.xml" />
+        <option value="$PROJECT_DIR$/JEE_TEST_LABS/profiles.xml" />
+        <option value="$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/waehrung/service/remote/WaehrungServiceBlackBoxTest.java" />
+        <option value="$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/waehrung/service/web/WaehrungRestServiceBlackBoxTest.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/JEE_TEST_LABS/src/test/resources/arquillian.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="astest_container_wildfly-10.0.0-remote" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="843" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/JEE_TEST_LABS/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.gedoplan.seminar.mocking.personscoring.service" />
+      <recent name="de.gedoplan.seminar.tdd.service" />
+      <recent name="de.gedoplan.seminar.tdd.entity" />
+      <recent name="de.gedoplan.seminar.junit.exercise.basic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JEE_TEST_LABS/src/test/resources" />
+      <recent name="$PROJECT_DIR$/as-test-selector" />
+      <recent name="$PROJECT_DIR$/TDD_LABS/src/test/java/de.gedoplan.seminar.tdd.entity" />
+      <recent name="$PROJECT_DIR$/TDD_LABS/src/test/java" />
+      <recent name="$PROJECT_DIR$/TDD_LABS/src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="de.gedoplan.seminar.mocking.personscoring.service" />
+      <recent name="de.gedoplan.seminar.junit" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="de.gedoplan.seminar.junit.exercise.basic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.UntitledTestCase">
+    <configuration name="WaehrungServiceWhiteBoxTest" type="ArquillianJUnit" factoryName="" temporary="true" nameIsGenerated="true">
+      <module name="JEE_TEST_LABS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.gedoplan.seminar.jeetest.waehrung.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="PACKAGE_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service" />
+      <option name="MAIN_CLASS_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service.WaehrungServiceWhiteBoxTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run server" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 14.0.1.Final" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/JEE_TEST_LABS/" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Djboss.server.default.config=standalone-full.xml" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JEE_TEST_LABS:war">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53188" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JEE_TEST_LABS:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="BlackBox_Arquillian" type="JUnit" factoryName="JUnit">
+      <module name="JEE_TEST_LABS" />
+      <option name="PACKAGE_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service.remote" />
+      <option name="MAIN_CLASS_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service.remote.WaehrungServiceBlackBoxTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreyBox_Arquillian" type="JUnit" factoryName="JUnit">
+      <module name="JEE_TEST_LABS" />
+      <option name="PACKAGE_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service.web" />
+      <option name="MAIN_CLASS_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service.web.WaehrungRestServiceGreyBoxTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestWeb_Blackbox_Arquillian" type="JUnit" factoryName="JUnit">
+      <module name="JEE_TEST_LABS" />
+      <option name="PACKAGE_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service.web" />
+      <option name="MAIN_CLASS_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service.web.WaehrungRestServiceBlackBoxTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UntitledTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JEE_TEST_LABS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tests.UntitledTestCase" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaehrungServiceEmbeddedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JEE_TEST_LABS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.gedoplan.seminar.jeetest.waehrung.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service" />
+      <option name="MAIN_CLASS_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service.WaehrungServiceEmbeddedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaehrungServiceUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JEE_TEST_LABS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.gedoplan.seminar.jeetest.waehrung.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service" />
+      <option name="MAIN_CLASS_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service.WaehrungServiceUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaehrungServiceUnitTest.testUmrechnenUSD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JEE_TEST_LABS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.gedoplan.seminar.jeetest.waehrung.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service" />
+      <option name="MAIN_CLASS_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service.WaehrungServiceUnitTest" />
+      <option name="METHOD_NAME" value="testUmrechnenUSD" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhiteBox_Arquillian" type="JUnit" factoryName="JUnit">
+      <module name="JEE_TEST_LABS" />
+      <option name="PACKAGE_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service" />
+      <option name="MAIN_CLASS_NAME" value="de.gedoplan.seminar.jeetest.waehrung.service.WaehrungServiceWhiteBoxTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="student [install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Arquillian JUnit.WaehrungServiceWhiteBoxTest" />
+      <item itemvalue="JBoss Server.run server" />
+      <item itemvalue="JUnit.WhiteBox_Arquillian" />
+      <item itemvalue="JUnit.GreyBox_Arquillian" />
+      <item itemvalue="JUnit.BlackBox_Arquillian" />
+      <item itemvalue="JUnit.RestWeb_Blackbox_Arquillian" />
+      <item itemvalue="JUnit.WaehrungServiceUnitTest.testUmrechnenUSD" />
+      <item itemvalue="JUnit.WaehrungServiceUnitTest" />
+      <item itemvalue="JUnit.WaehrungServiceEmbeddedTest" />
+      <item itemvalue="Maven.student [install]" />
+      <item itemvalue="JUnit.UntitledTestCase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UntitledTestCase" />
+        <item itemvalue="Arquillian JUnit.WaehrungServiceWhiteBoxTest" />
+        <item itemvalue="JUnit.WaehrungServiceEmbeddedTest" />
+        <item itemvalue="JUnit.WaehrungServiceUnitTest" />
+        <item itemvalue="JUnit.WaehrungServiceUnitTest.testUmrechnenUSD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80787e3f-ddd4-4fbb-b619-9262bb0f1880" name="Default Changelist" comment="" />
+      <created>1561364205853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561364205853</updated>
+      <workItem from="1561364209998" duration="1007000" />
+      <workItem from="1561365491406" duration="45629000" />
+      <workItem from="1561633502579" duration="634000" />
+      <workItem from="1561634519311" duration="10132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BlackBox_Arquillian - 2019.06.27 at 14h 46m 12s.xml">
+      <configuration name="BlackBox_Arquillian" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackBox_Arquillian - 2019.06.27 at 14h 48m 03s.xml">
+      <configuration name="BlackBox_Arquillian" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackBox_Arquillian - 2019.06.27 at 14h 48m 47s.xml">
+      <configuration name="BlackBox_Arquillian" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackBox_Arquillian - 2019.06.27 at 15h 07m 11s.xml">
+      <configuration name="BlackBox_Arquillian" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RestWeb_Blackbox_Arquillian - 2019.06.27 at 15h 34m 50s.xml">
+      <configuration name="RestWeb_Blackbox_Arquillian" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RestWeb_Blackbox_Arquillian - 2019.06.27 at 15h 37m 08s.xml">
+      <configuration name="RestWeb_Blackbox_Arquillian" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RestWeb_Blackbox_Arquillian - 2019.06.27 at 15h 37m 48s.xml">
+      <configuration name="RestWeb_Blackbox_Arquillian" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WhiteBox_Arquillian - 2019.06.27 at 23h 21m 35s.xml">
+      <configuration name="WhiteBox_Arquillian" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreyBox_Arquillian - 2019.06.28 at 10h 13m 50s.xml">
+      <configuration name="GreyBox_Arquillian" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UntitledTestCase - 2019.06.28 at 11h 40m 17s.xml">
+      <configuration name="UntitledTestCase" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57402000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7338129" visible="true" weight="0.1595136" />
+      <window_info id="Structure" order="1" sideWeight="0.26618704" side_tool="true" weight="0.19098713" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Persistence" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3288948" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42675158" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39946738" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32756326" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32756326" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32738853" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3288948" />
+      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.3288948" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32756326" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.3288948" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.021459227" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="JSF" order="6" />
+      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.20457797" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/CompleteTestSuite.java</url>
+          <line>19</line>
+          <properties class="de.gedoplan.seminar.junit.CompleteTestSuite" method="setUp">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MOCKING_LABS/src/main/java/de/gedoplan/seminar/mocking/personscoring/service/PersonScoringService.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MOCKING_LABS/src/test/java/de/gedoplan/seminar/mocking/demo/shop/mock/MwstRechnerMock1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MOCKING_LABS/src/main/java/de/gedoplan/seminar/mocking/personscoring/service/PersonScoringService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/test/repository/TestEntityManagerProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/WAEHRUNG" />
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/main/java/de/gedoplan/seminar/jeetest/waehrung/service/WaehrungService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUNIT_LABS/src/test/java/de/gedoplan/seminar/junit/demo/advanced/rules/ExpectedExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="17" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/resources/integrationtest/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/resources/integrationtest/glassfish/domains/testDomainNNNNN/config/domain.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/test/fixture/TestDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/test/fixture/MasterTestDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="92" column="14" selection-start-line="92" selection-start-column="14" selection-end-line="92" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/resources/dbunit/waehrung.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/gedoplan/baselibs-persistence/1.7/baselibs-persistence-1.7-sources.jar!/de/gedoplan/baselibs/persistence/repository/SingleIdEntityRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3436">
+          <caret line="176" column="14" selection-start-line="176" selection-start-column="14" selection-end-line="176" selection-end-column="14" />
+          <folding>
+            <element signature="e#5878#5879#0" expanded="true" />
+            <element signature="e#5922#5923#0" expanded="true" />
+            <element signature="e#0#24#1" expanded="true" />
+            <element signature="e#11406#11407#0" expanded="true" />
+            <element signature="e#11468#11469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/test/waehrung/fixture/WaehrungDbUnitTestDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/test/base/IntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/shrinkwrap/shrinkwrap-api/1.2.3/shrinkwrap-api-1.2.3-sources.jar!/org/jboss/shrinkwrap/api/ShrinkWrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/test/waehrung/fixture/WaehrungTestDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#20#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/test/util/TestProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="88" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/test/base/ArquillianTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="120" column="36" lean-forward="true" selection-start-line="120" selection-start-column="36" selection-end-line="120" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/waehrung/service/WaehrungServiceUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/65714f91-a465-4481-a831-043be2e920c2/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-selector/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/profiles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5552" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/resources/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/test/base/ArquillianWhiteBoxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/waehrung/service/WaehrungServiceEmbeddedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="39" selection-end-column="64" />
+          <folding>
+            <element signature="docComment;class#WaehrungServiceEmbeddedTest#0" />
+            <element signature="e#1549#1550#0" expanded="true" />
+            <element signature="e#1619#1620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/as-test-selector/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4632">
+          <caret line="193" column="16" selection-start-line="193" selection-start-column="16" selection-end-line="193" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/waehrung/service/WaehrungServiceWhiteBoxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="74" column="5" lean-forward="true" selection-start-line="37" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#WaehrungServiceWhiteBoxTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/waehrung/service/remote/WaehrungServiceBlackBoxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="72" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/main/java/de/gedoplan/seminar/jeetest/common/service/web/RestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/main/java/de/gedoplan/seminar/jeetest/waehrung/service/web/WaehrungRestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/waehrung/service/web/WaehrungRestServiceBlackBoxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="docComment;class#WaehrungRestServiceBlackBoxTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/de/gedoplan/seminar/jeetest/waehrung/service/web/WaehrungRestServiceGreyBoxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="docComment;class#WaehrungRestServiceGreyBoxTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/WAEHRUNG">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/WAEHRUNG">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/WAEHRUNG">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/WAEHRUNG">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/BESTELLPOSITION">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/ARTIKEL">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/WAEHRUNG">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/WAEHRUNG">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/WAEHRUNG">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/java/com/example/tests/UntitledTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1697">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/WAEHRUNG">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JEE_TEST_LABS/src/test/resources/arquillian.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="56" column="47" lean-forward="true" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cc81ffe7-6d19-46d5-9ab7-a110d0cecd89/database/SEMINAR/schema/PUBLIC/table/BESTELLUNG">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <last-edited>Manual container configuration|Manual</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

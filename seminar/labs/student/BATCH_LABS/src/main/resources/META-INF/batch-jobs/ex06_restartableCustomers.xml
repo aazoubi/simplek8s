@@ -1,0 +1,24 @@
+
+<job id="ex06_restartableCustomers" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/jobXML_1_0.xsd"
+  version="1.0">
+  <step id="updateRates" next="updateCustomers">
+    <batchlet ref="updateRatesBatchlet">
+      <properties>
+        <property name="filename" value="#{jobParameters['rates.filename']}?:rates.properties;" />
+      </properties>
+    </batchlet>
+  </step>
+
+  <step id="updateCustomers">
+    <chunk item-count="1000">
+      <reader ref="customerCsvItemReaderWithCheckpoint">
+        <properties>
+          <property name="filename" value="#{jobParameters['customers.filename']}?:customers.csv;" />
+        </properties>
+      </reader>
+      <processor ref="beanValidationItemProcessor" />
+      <writer ref="entityItemWriter" />
+    </chunk>
+  </step>
+</job>
+
